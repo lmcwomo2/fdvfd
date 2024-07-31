@@ -1,0 +1,423 @@
+@charset "UTF-8";body{font-size:13px;line-height:23px;font-family:'Montserrat', sans-serif;}
+img{border:0}.cabezalmovil{background:rgba(0,0,0,.8)}.datos-moviles{display:none;text-align:right;color:#fff;float:left;padding:2%}.clear{clear:both}.centrador{width:1100px;margin:auto}
+.header{background-position:center}#inicio-banner-principal{width:100%}.centrador-banner{margin:auto;width:1100px}.texto-banner{padding:10px;width:35%;margin-top:-200px;
+	right: 30%;position:absolute}.grafico-banner img,.texto-banner img{width:100%;height:auto}.grafico-banner{width:100%}.bannerpancita{
+	background-image:url(images/banner-pavo-pierna.jpg);
+	Background-size:cover;
+	background-position:center
+}
+#secciones-inicio{
+    color: #FFFFFF!important;
+    width: 100%;
+    margin: auto;
+    position: relative;
+    margin-top: auto;
+}
+#secciones-inicio-derecha{
+    background-size: cover;
+    background-image:url("images/mayore-restaurantes.jpg");
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    right: 0;
+}
+.pavos{
+color: #c20814;
+	font-size: 20px;
+}
+.pavos-precio{
+color: #4C4C4C;
+	font-size: 20px;
+}
+#boton-pavos{
+	margin: auto;
+	padding: 3px;
+	font-size: 15px;
+	background-color: #802021;
+	color: #FFFFFF;
+	width: 20%;
+	border-radius: 10px;
+}
+#boton-pavos a,  #boton-pavos a:hover{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#lineas{
+margin: auto;
+text-align: center;
+width: 100%;
+font-size: 50px;
+line-height: 65px;
+padding-top: 10%;
+padding-right: 0%;
+padding-left: 0%;
+padding-bottom: 10%;
+background-image: url("images/fondo-pavos.jpg");
+background-size: cover;
+color: #FFFFFF;
+background-position: bottom center;
+}
+#lineas h2{
+	font-size: 50px;
+	line-height: 60px;
+}
+#fianzas-inicio-izq{
+    background-size: cover;
+    background-image:url("images/servicio-domicilio.jpg");
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    left: 0;
+}
+#secciones-inicio-derecha img, #fianzas-inicio-izq img{
+	width: 100%;
+	height: auto;
+}
+.centrador2{
+    max-width: 800px;
+    float: right;
+}
+.centrador3{
+    max-width: 800px;
+    float: left;
+}
+#secciones-inicio-izq{
+    float: left;
+	background-image: url("images/fondo-domicilio.jpg");
+	padding:1% 5% 1% 5%;
+    color: #FFFFFF!important;
+    width: 40%;
+    font-size: 14px;
+    line-height: 23px;
+	background-size: cover;
+}
+#fianzas-inicio-derecho a, #fianzas-inicio-derecho a:hover, #secciones-inicio-izq a, #secciones-inicio-izq a:hover{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#fianzas-inicio-derecho ul, #secciones-inicio-izq ul{
+	display: list-item;
+	text-align: left!important;
+}
+#fianzas-inicio-derecho li, #secciones-inicio-izq li{
+	display: list-item;
+	list-style:disc;
+	text-align: left!important;
+}
+#fianzas-inicio-derecho{
+    float:right;
+   background-image: url("images/fondo-domicilio.jpg");
+	background-size: cover;
+    padding: 5%;
+    color: #FFFFFF!important;
+    width: 40%;
+    font-size: 14px;
+    line-height: 23px;
+}
+#fianzas-inicio-derecho a, #fianzas-inicio-derecho a:hover{
+	text-decoration: underline;
+	color:#FFFFFF;
+}
+#secciones-inicio ul{
+	list-style:none;
+	padding:0;
+	text-align:center;
+	margin: 10% 0%;
+	}
+.bannercortes{
+    background-image: url(images/fondo-visceras.jpg);
+    background-size: cover;
+    background-position: center bottom;
+}
+.bannercortes2{
+	background-size:cover;
+	background-position:center bottom;
+	background-image:url("images/banner-pavo.jpg");
+}
+.bannerpollo{
+	background-image:url("images/banner-restaurante.jpg");
+	background-size:cover;
+	background-position:center bottom;
+	}
+.bannertostadas{
+	background-image:url(images/banner-entregas-domicilio.jpg);
+	background-size:cover;
+	background-position:center right;
+}
+.bannercerdo{
+	background-image:url(images/banner-lomo.jpg);
+	background-size:cover;
+	background-position:center right;}
+.fondo1{background-image:url(images/imagen-home.jpg);height:600px;background-size:cover}.fondo2,.fondo3,.fondo4,.fondopollo{background-image:url(images/historia.jpg);height:400px;background-size:cover}.fondo3,.fondo4,.fondopollo{background-image:url(images/shutterstock_640137844.jpg)}.fondo4,.fondopollo{background-image:url(images/productos-fondo.jpg)}.fondopollo{background-image:url(images/fondo-pollo.jpg)}.fondocerdo,.fondocontacto,.fondores{background-image:url(images/fondo-carne.jpg);height:400px;background-size:cover}
+.seccionpavos{background-image:url("images/banner-principal-pavos.jpg");height:500px;background-size:cover}
+.fondoviscerainterior{background-image:url(images/banner-carrusel-visceras.jpg);
+height:400px;background-size:cover}
+.fondocortesinterior{background-image:url(images/banner-cortes-carrusel.jpg);
+height:400px;background-size:cover}
+.fondocortesinterior2{
+height:100px}
+.fondootrosproductosinterior{background-image:url(images/banner-tilapia.jpg);
+height:400px;background-size:cover}
+.fondocerdo,.fondocontacto{background-image:url(images/shutterstock_142168612.jpg)}.fondocerdo{background-image:url(images/shutterstock_253417420.jpg)}
+.fondovisceras{
+	background-image:url(images/banner-fondo-visceras.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.fondocortes,.fondootrosproductos{background-image:url(images/shutterstock_264350810.jpg)}.fondocortes{background-image:url(images/fondocortes.jpg)}
+.barrasuperior{
+	background-color:#c20814;
+	text-align:right;
+	color:#fff;padding:20px 0 10px}.barrasuperior img{margin-bottom:-5px;margin-right:10px}.barrasuperior ul,.iconos1 ul,.iconos2 ul,.iconos3 ul,.menu ul{list-style:none;padding:0;margin:0}.barrasuperior li,.menu li{text-align:center;font-size:16px;display:inline-table}.barrasuperior li a,.menu li a{display:block;-webkit-transition:all .5s ease;-moz-transition:all .5s ease;-o-transition:all .4s ease;transition:all .4s ease}.barrasuperior li a{border-right:dotted #fff 1px;padding:0 10px}.barrasuperior-derecho{float:right}.barrasuperior-izq{float:left}.barrasuperior li a,.barrasuperior-izq a,.barrasuperior-izq a:hover,.datoscontacto a,.pie a{color:#fff;text-decoration:none}
+	.menu{
+		text-align:center;
+	background-color:#CCC;text-transform:uppercase}.menu li{font-family:'Oswald',sans-serif}.menu li a{color:#000;padding:10px 20px;border-bottom:2px #999 solid}.menu li a:hover{border-bottom:2px #87B052 solid}
+.seleccion-menu{
+background: #E59138;}
+.seleccion-menu a, .seleccion-menu a:hover{
+color:#FFFFFF;
+text-decoration: none;
+}
+.menuresponsive li{display:none}
+#galeria1{
+	width:100%;
+}
+#galeria1 ul{
+	list-style:none;
+	margin:0;
+	padding:0;
+	margin-top:20px;
+	background-color: #61171c;
+}
+
+#galeria1 li{
+	width:25%;
+	float:left;
+}
+#galeria1 li img{
+	border:none;
+	width:100%;
+	height:auto;
+}
+#contenido-logo-menu{
+position:absolute;
+z-index:9999;
+text-align:center;
+width:100%;
+margin:auto;
+}
+#botonmenumovil{
+	float:right;
+margin-top: 5%;
+margin-right: 5%;
+text-align: right;}
+.logotipo{
+z-index:9999;
+text-align:center;
+}
+.logotipo img{
+	width:30%;
+	height:auto;
+}
+.iconos1home {
+padding: 5% 0%;}
+.iconos1home li, .iconos1 li, .iconos1home ul, .iconos1 ul,.iconos2 ul,.iconos3 ul{text-align:center}
+.iconos1home, .iconoshome2{font-family:'Oswald',sans-serif;margin-top:3%}
+.iconos1home h2,.iconoshome h4, .iconoshome2 h2, .iconoshome h4{font-size:25px;text-align:center}
+.iconos1home li, .iconos1 li{display:inline-table;width:14%;margin:1%;background-image:url(images/fondogris.jpg);padding-top:20px;background-color:#333;font-family:'Pacifico',cursive}
+.iconos1home li img, .iconos1 li img{height:auto;width:60%}
+.iconos1home h3, .iconos1 li h3,.iconos3 li h3{background-color:#c20814;color:#fff;font-size:18px;padding:8px 0}
+.iconos1home a, .iconos1 li a,.iconos3 li a,.menu li a{text-decoration:none}
+.iconos3 {
+padding: 8% 0%;
+}
+.iconos2 li,.iconos3 li{display:inline-table;width:20%;margin:1%}.iconos3 li{line-height:24px;text-align:center;font-family: 'Noto Sans JP', sans-serif;}.iconosolo{background-image:url(images/fondogris.jpg);padding-top:20px;background-color:#333;font-family:'Pacifico',cursive;text-align:center}.iconos3 li img{height:auto;width:40%}.iconos3 li h3{text-align:center}.iconos2 li{text-align:center;font-size:16px;font-family:'Oswald',sans-serif}.iconos2 li img{height:auto;width:60%}.iconos2 li h3{color:#c20814}.cintillo{background-color:#c20814;text-align:center}
+.cintillo-pavos{
+background: rgb(224,122,20);
+background: radial-gradient(circle, rgba(224,122,20,1) 0%, rgba(223,70,23,1) 53%, rgba(255,51,0,1) 100%);
+	margin: auto;
+	border-radius: 10px;
+	width: 50%;
+	font-size: 27px;
+	color: #FFFFFF;
+	padding: 2%;
+	line-height: 32px;
+	margin-bottom: 4%;
+	text-align:center}
+.cintillo h1,.cintillo h2{color:#fff;padding:20px 0;margin:0}.fotografiahome1{background-image:url(images/shutterstock_1047870661.jpg);height:300px;background-position:center;background-size:cover}.fotografiahome2{background-image:url(images/home2.jpg)}
+.bannerpavos{background-image:url("images/banner-pavo-crudo.jpg");
+height:400px;background-position:center;background-size:cover}
+.bannerpierna{background-image:url("images/banner-pierna-crudo.jpg");
+height:400px;background-position:center;background-size:cover}
+.textohome{
+	margin-bottom: 5%;
+}
+.textohomeizquierdo{
+    width: 70%;
+    float: left;
+    padding-top: 2%;
+}.cintillo h1,.cintillo h2,.textocontacto h1,.textohistoria h1,.textohomeizquierdo h2{font-family:'Oswald',sans-serif}
+.textohome2 {
+text-align: center;
+margin: auto;
+	padding-top: 5%;
+}
+.textohomederecho,.textohomeizquierdo h3{font-family:'Oswald',sans-serif;color:#666; font-size: 25px;}.textohomederecho{width:26%;float:right;background-image:url(images/fondofotohome.jpg);background-position:center;background-size:cover;text-align:right;font-size:20px;color:#fff;text-shadow:2px 2px 4px #000;line-height:24px;padding-top:350px;padding-bottom:30px;padding-right:2%}.fraseeslogan img,.logopie img,.textohomederecho img{width:100%;height:auto}.fraseeslogan{padding-top:100px;width:230px}
+.pie{background-color:#999;color:#fff}.datospie,.horariospie,.menupie{display:inline-table;margin-right:40px;padding:20px 0}.menupie ul{list-style:none;padding:0;margin:0}
+.pie2{background-color:#333;color:#fff;padding-bottom:15px}.leyendapie,.logopie{float:left;width:200px;margin:30px 0}.leyendapie{float:right;width:300px;text-align:right}.lista-cerdo,.lista-otros,.lista-pollo,.lista-res,.lista-visceras{background-position:center;background-size:100%;padding:50px 30px}.lista-res{background-image:url(images/shutterstock_1031664748.jpg)}.lista-pollo{background-image:url(images/pollo-fondo.jpg)}.lista-visceras{background-image:url(images/fondo-visceras.jpg)}.lista-cerdo{background-image:url(images/banner-cerdo.jpg)}.lista-otros{background-image:url(images/fondo-otros.jpg)}.lista-productos{text-align:center;color:#fff;padding:5px;font-size:16px;background:rgba(0,0,0,.8)}
+.textocontacto,.textohistoria{font-family: 'Noto Sans JP', sans-serif;}
+.textohistoria{margin:auto;width:60%;text-align:center}
+.textocontacto{width:50%;float:left;line-height:20px;text-align:left}
+.textocontacto2{
+    width: 60%;
+    margin: auto;
+    line-height: 20px;
+    text-align: left;
+    padding-bottom: 3%;
+}
+.fotocontacto{width:40%;float:right;background-image:url(images/fondobanner1.jpg);background-size:cover;background-position:center;font-size:20px;color:#fff;text-shadow:2px 2px 4px #000;line-height:24px;font-family:'Oswald',sans-serif;text-align:right;margin-top:20px;padding-top:300px}.fotocontacto p{padding:10px}.campo,.campo-texto{background-color:#ddd;padding:2px;width:100%;height:25px;border:0;margin:2px 0}.campo-texto{height:100px}.boton-enviar{background:#c20814;color:#fff;padding:5px 10px;font-size:20px;border:0;margin:2px 0}.datoscontacto{background-color:#c20814;font-family: 'Noto Sans JP', sans-serif;color:#fff;font-size:13px;padding:10px}svg .shadow{cursor:crosshair;-moz-box-shadow:-5px -5px 5px #888;-webkit-box-shadow:-5px -5px 5px #888;box-shadow:-5px -5px 5px #888}.bx-next,.bx-prev{display:none}.bx-viewport{height:450px}
+.btn_wapp{
+	position: fixed;
+	bottom: 3%;
+	top:auto;
+	right: 30px;
+	border-radius: 50%;
+	padding: 10px;
+	background-color: #25d366;
+	color: #FFFFFF;
+	text-align: center;
+	box-sizing: border-box;
+	box-shadow: 0 5px 10px 2px rgba(0,0,0,.2);
+	display: flex;
+	align-items: center;
+	vertical-align: middle;
+	font-size: 16px;
+	z-index: 99999;
+	width: 60px;
+}
+.btn_wapp img{
+	width: 100%!important;
+	height: auto;
+}
+.btn_wapp a,.btn_wapp a:hover{color:#fff;text-decoration:none}
+.btn_wapp2 {position:fixed;
+	bottom:0%;
+	right:0px;
+	box-sizing:110;
+	text-align:center;
+	align-items:center;
+	vertical-align:middle;
+	width: 100%;
+	font-size:16px;
+	z-index:99999;
+display: none;}
+.btn_wapp2 img{
+    background-color: #61171c;
+    padding: 1%;
+    width: 4%;
+    border-radius: 50%;
+    margin-left: 1%;
+}
+.btn_wapp3 {
+	position:fixed;
+	bottom:1%;
+	left:30px;
+	width: 10%;
+	box-sizing:110;
+	box-sizing:border-box;display:flex;align-items:center;vertical-align:middle;font-size:16px;z-index:99999;}
+.btn_wapp3 img{
+	height: auto;
+    width: 80%;
+}
+
+#menulateralmovil{
+background-color: #000000;
+	padding: 1%;
+	position: fixed;
+	right: 0;
+	display: none;
+	z-index: 9999;
+	height: 100%;
+	width: 10%;
+	text-align: center;
+}
+#menulateralmovil img{
+	width: 80%;
+	height: auto;
+	padding: 10%;
+}
+#cuerpo{
+	width: 100%;
+}
+#aviso{width:100%;bottom:0;position:fixed;clear:both;z-index:9999;
+	background-color:#D51B1E;
+}
+#aviso-contenido{margin:auto;padding-top:1%;width:600px;
+color:#FFF;
+text-align:center;
+	padding: 2%;
+font-size:19px;
+line-height: 24px;}
+#aviso-contenido a{
+color:#F90;
+text-decoration:none;
+}
+@media all and (max-width:1100px){.centrador, body{width:100%}
+	#menulateralmovil{
+		display: block;
+}
+	#cuerpo{
+	float: left!important;
+	width: 88%;
+}
+}
+@media all and (max-width:900px){
+	.logotipo img{
+	width:100%;
+}
+	#contenido-logo-menu{
+width:85%;
+}
+.btn_wapp2 {
+	display: block;}
+	.barrasuperior{display:none}.menu li{clear:both}
+	#botonmenumovil,.datos-moviles,.menu li{display:block}
+	#botonmenumovil img{width: 15%;
+	height: auto;}
+	.fraseeslogan img{width:50%}.menu{display:none}.menu li a{border:0;padding:10px}.fraseeslogan{padding:20px 1%}.iconos3 li{width:48%}.pie{padding:1%;text-align:center}.datospie,.horariospie{margin:0}.leyendapie,.logopie{text-align:center;float:none;clear:both;margin:auto}.iconosolo{margin-top:20px;background-size:cover;background-position:center}.menuresponsive{display:block!important}.bx-wrapper .bx-viewport{height:410px}.bannerpancita,.bannerpozole,.bannertostadas{background-position:center top}.centrador-banner{width:100%}
+	.texto-banner{margin-top:-130px;width:40%}
+#boton-pavos{
+	width: 30%;
+}
+}
+ @media all and (max-width:710px){.texto-banner{margin-top:-100px;color:#fff}}
+@media all and (max-width:700px){.textocontacto,.textohistoria,.textohomeizquierdo{float:none;clear:both;width:98%;padding:1%}.fotocontacto,.textohomederecho{float:none;clear:both;width:98%;padding:80px 1% 20px}.menupie{display:none}.header{height:450px}}@media all and (max-width:696px){.bx-wrapper .bx-viewport{height:386px}}
+@media all and (max-width:680px){
+.btn_wapp2 img{
+padding:2%;
+	width:6%;
+margin-left: 1%;
+}
+	.cintillo-pavos{
+	font-size: 20px;
+	line-height: 27px;
+		width: 70%;
+}
+	.texto-banner{
+		margin-top:0;position:inherit;
+	width: 60%;
+	}
+	.menu li{font-size:13px}.menu li a{padding:7px}}@media all and (max-width:645px).bannercortes, .bannerpollo{background-position:center right!important;}.bannervisceras{background-position:center!important;}
+#boton-pavos{
+	width: 40%;
+}}
+@media all and (max-width:500px){.iconos1 li{width:30%}.iconos2 li{width:40%}.header{height:200px}
+		.iconos3 li{width:80%;margin:auto}.grafico-banner,.texto-banner{float:none}.bx-viewport{height:310px}.iconoshome{margin-top:23%}.texto-banner{font-size:30px}
+	
+	.logotipo{
+		width: 60%;
+}
+	#botonmenumovil{
+		width: 40%;}}
+@media all and (max-width:477px)
+{.bx-wrapper .bx-viewport{height:300px}.texto-banner{margin-top:15%}.iconoshome{margin-top:inherit}}body{margin:0}.bx-wrapper{position:relative;margin:0;padding:0;*zoom:1;z-index:1}.bxslider{margin:0!important;z-index:0;padding-left:0}.bx-wrapper img{max-width:100%}.bx-wrapper .bx-controls-auto,.bx-wrapper .bx-pager{position:absolute;bottom:-20px;width:100%}.bx-wrapper .bx-loading{min-height:50px;background:url(images/bx_loader.gif) center center no-repeat;height:100%;width:100%;position:absolute;top:0;left:0;z-index:2000}.bx-wrapper .bx-pager{text-align:center;font-size:.85em;font-family:Arial;font-weight:700;color:#666;margin-top:-20px}.bx-wrapper .bx-controls-auto .bx-controls-auto-item,.bx-wrapper .bx-pager .bx-pager-item{display:inline-block;*zoom:1;*display:inline;margin:3px}.bx-wrapper .bx-pager.bx-default-pager a{background:#666;text-indent:-9999px;display:block;width:10px;height:10px;margin:0;outline:0;-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px}.bx-wrapper .bx-pager.bx-default-pager a.active,.bx-wrapper .bx-pager.bx-default-pager a:hover{background:#3d9ffb}.bx-wrapper .bx-prev{left:-20px;background:url(images/controls.png) no-repeat 0 -32px}.bx-wrapper .bx-next{right:-20px;background:url(images/controls.png) no-repeat -43px -32px}.bx-wrapper .bx-prev:hover{background-position:0 0}.bx-wrapper .bx-next:hover{background-position:-43px 0}.bx-wrapper .bx-controls-direction a{position:absolute;top:50%;margin-top:-16px;outline:0;width:33px;height:33px;text-indent:-9999px;z-index:9999}.bx-wrapper .bx-controls-direction a.disabled{display:none}.bx-wrapper .bx-controls-auto{text-align:center}.bx-wrapper .bx-controls-auto .bx-start{display:block;text-indent:-9999px;width:10px;height:11px;outline:0;background:url(images/controls.png) -86px -11px no-repeat;margin:0 3px}.bx-wrapper .bx-controls-auto .bx-start.active,.bx-wrapper .bx-controls-auto .bx-start:hover{background-position:-86px 0}.bx-wrapper .bx-controls-auto .bx-stop{display:block;text-indent:-9999px;width:9px;height:11px;outline:0;background:url(images/controls.png) -86px -44px no-repeat;margin:0 3px}.bx-wrapper .bx-controls-auto .bx-stop.active,.bx-wrapper .bx-controls-auto .bx-stop:hover{background-position:-86px -33px}.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager{text-align:left;width:80%}.bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto{right:0;width:35px}.bx-wrapper .bx-caption{position:absolute;bottom:0;left:0;background:#666\9;background:rgba(80,80,80,.75);width:100%}.bx-wrapper .bx-caption span{color:#fff;font-family:Arial;display:block;font-size:.85em;padding:10px}

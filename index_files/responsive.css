@@ -1,0 +1,224 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@media all and (max-width: 1100px) {
+	body, .centrador{
+		width:100%;
+	}
+}
+@media all and (max-width: 900px) {
+	.barrasuperior{
+		display:none;
+	}
+	.iconoshome2{
+		display: none;
+}
+	.menu li{
+		display:block;
+		clear:both;
+}
+	.btn_wapp3{
+	display:none;
+}
+.datos-moviles{
+	display:block;
+	width: 20%;
+}
+	.centrador {
+	width:95%;
+}
+#botonmenumovil{
+width:30%;
+}
+.fraseeslogan img{
+	width:50%;
+}
+.menu{
+	display:none;
+}
+.menu li a{
+	border:0px;
+	padding:10px;
+}
+.fraseeslogan{
+	padding:20px 1%;
+}
+.iconos1 li, .iconos2 li{
+	width:20%;
+}
+.iconos3 li{
+	width:48%;
+}
+.pie{
+	padding:1%;
+	text-align:center;
+}
+.datospie, .horariospie{
+	margin:0px;
+}
+.logopie, .leyendapie{
+	text-align:center;
+	float:none;
+	clear:both;
+	margin:auto;
+}
+.header{
+}
+.logotipo{
+	padding:0px 1%;
+}
+.logotipo{
+	position: inherit;
+	width: 40%!important;
+}
+.iconosolo{
+	margin-top:20px;
+	background-size:cover;
+	background-position:center;
+}
+.menuresponsive{
+	display:block!important;
+}
+
+.bx-wrapper .bx-viewport{
+	height:410px;
+}
+.bannertacos, .bannerpancita, .bannertostadas, .bannerpozole, .bannerprecios, .bannertacos{
+	background-size:cover;
+	background-position:center top;
+}
+.centrador-banner {
+	width:100%;}
+	.btn_wapp2, .btn_wapp {
+	margin-bottom: 10%}
+	
+}
+@media all and (max-width: 710px) {
+	#aviso-contenido{
+		width:100%;
+	}
+.texto-banner{
+	margin-top:-100px;
+	color: #FFF;
+}
+	#secciones-inicio-derecha, #fianzas-inicio-izq{
+	width:100%;
+position:relative;
+height:300px;
+}
+#secciones-inicio-izq, .centrador2, .centrador3, #secciones-inicio-derecha{
+	width:100%;
+position:relative;
+float:none;
+}
+#secciones-inicio-izq, #fianzas-inicio-derecho{
+	width:90%;
+margin: auto;
+float: none;
+max-width:none;
+}
+}
+@media all and (max-width: 700px) {
+.textohomeizquierdo, .textocontacto, .textohistoria{
+	float:none;
+	clear:both;
+	width:98%;
+	padding:1%;
+}
+.textohomederecho, .fotocontacto{
+	float:none;
+	clear:both;
+	width:98%;
+	padding:80px 1% 20px 1%;
+}
+.menupie{
+	display:none;
+}
+
+}
+@media all and (max-width: 696px) {
+.bx-wrapper .bx-viewport{
+	height:386px;
+}
+	.bannerpollo{
+		background-position: left;
+}
+}
+@media all and (max-width: 680px) {
+.menu li{
+	font-size:13px;
+}
+.menu li a{
+	padding:7px;
+}
+	.iconos1home li{
+		width: 20%;
+}
+}
+@media all and (max-width: 645px) {
+.texto-banner{
+	margin-top:22%;
+}
+	#galeria1 li{
+		width: 50%;
+}
+	.btn_wapp2, .btn_wapp {
+	margin-bottom: 13%}
+	.cintillo-pavos{
+	font-size: 20px;
+	line-height: 27px;
+		width: 70%;
+}
+	.seccionpavos{
+	background-position: right;
+}
+}
+@media all and (max-width: 500px) {
+.iconos1 li{
+	width:30%;
+}
+.iconos2 li{
+	width:40%;
+}
+.iconos3 li{
+	width:80%;
+	margin:auto;
+}
+.grafico-banner{
+	float:none;
+}
+.bx-viewport{
+	height:310px;
+}
+.iconoshome{
+	margin-top:10%;
+}
+.texto-banner {
+	float:none;
+	width: 80%;
+	margin-top: 10%;
+}
+.iconos1home li{
+		width: 30%;
+}
+	}
+
+@media all and (max-width: 477px) {
+.bx-wrapper .bx-viewport{
+	height:300px;
+}
+.texto-banner{
+	margin-top:15%;
+}
+	.logotipo{
+		width: 60%!important;
+}
+	#botonmenumovil{
+		width: 40%!important;
+}
+.iconoshome{
+	margin-top:inherit;
+}
+	.btn_wapp2, .btn_wapp {
+	margin-bottom: 15%}
+}
